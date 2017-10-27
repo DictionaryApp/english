@@ -8,7 +8,7 @@
 # General App Info
 #
 app:
-  name: English Advanced Dictionary # REQUIRED - Enter your app name
+  name: English Dictionary # REQUIRED - Enter your app name
   ios_id:  # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: com.fsapps.offline.english.dictionary # Optional - Enter Android app id like: com.example.app
 
